@@ -1,0 +1,54 @@
+﻿@model IEnumerable<TrainApplication.Database.Train>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(1){text-align: right;}
+    td:nth-child(3){text-align: right;}
+</style>
+<h2></h2>
+<h4>Train</h4>
+<p>
+    @Html.ActionLink("Create New", "TrainCreate",null,new {@class="btn btn-info"})
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.GovId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Capacity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "TrainEdit", new { id=item.Id}, new { @class = "btn btn-danger"})
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.GovId)
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.Capacity)
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+
+    </tr>
+}
+
+</table>

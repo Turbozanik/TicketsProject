@@ -1,0 +1,71 @@
+﻿<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
+<div class="row" style="padding-top: 100px;">
+    <div class="form-group">
+        <label for="inputEmail" class="col-md-2 control-label"></label>
+        <div class="col-md-10">
+            <input type="text" class="form-control" id="inputEmail" placeholder="search..." ng-model="query">
+        </div>
+        <span class="material-input"></span>
+    </div>
+</div>
+<div class="row" style="padding-top: 20px;">
+    <div class="col-md-offset-3 col-md-3">
+        <md-datepicker ng-model="from" md-placeholder="Enter date"></md-datepicker>
+    </div>
+    <div class="col-md-1">
+        -
+    </div>
+    <div class="col-md-3">
+        <md-datepicker ng-model="to" md-placeholder="Enter date"></md-datepicker>
+    </div>
+    <div class="col-md-2">
+        <button class="btn btn-info" ng-click="find(from,to)"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Find</button>
+    </div>
+</div>
+<div class="row" style="padding-top: 50px;">
+    <div class="alert alert-dismissible alert-success" id="add" style="display: none;">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        <h4 class="text-center">Success!</h4>
+        <p class="text-center">
+            <i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;Purchased success
+        </p>
+    </div>
+    <div class="col-md-3" ng-repeat="route in routes | filter:{route: query,}">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h2 class="panel-title text-center"><i class="fa fa-ticket" aria-hidden="true"></i>&nbsp;{{route.route}}
+                </h2>
+            </div>
+            <div class="panel-body">
+                <p>
+                    <strong>Route:</strong> {{route.route}}
+                </p>
+                <p>
+                    <strong>Train:</strong> {{route.train}}
+                </p>
+                <p>
+                    <strong>Capacity:</strong> {{route.capacity}}
+                </p>
+                <p>
+                    <strong>Free places:</strong> {{route.freePlaces}}
+                </p>
+                <p>
+                    <strong>Start date:</strong> {{route.dateStart | date:'yyyy-MM-dd '}}
+                </p>
+                <p>
+                    <strong>End date:</strong> {{route.dateEnd | date:'yyyy-MM-dd'}}
+                </p>
+                <div class="text-center">
+                    <button class="btn btn-success" ng-click="purchase(route)"><i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;Purchase</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="../../scripts/bootstrap-material-datetimepicker.js"></script>
+<script>
+    $(document).ready(function() {
+        $('from').bootstrapMaterialDatePicker();
+        $('to').bootstrapMaterialDatePicker();
+    });
+</script>

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<TrainApplication.Database.Purchase>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(1){text-align: right;}
+    td:nth-child(2){text-align: right;}
+    td:nth-child(3){text-align: right;}
+</style>
+<h2></h2>
+<h4>Purchase</h4>
+<p>
+    <!--@Html.ActionLink("Create New", "PurchaseCreate", null, new { @class = "btn btn-info" })-->
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.DatePurchased)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AspNetUser.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Route.Id)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+           <!-- @Html.ActionLink("Edit", "PurchaseEdit", new { id=item.Id}, new { @class = "btn btn-danger" })-->
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.DatePurchased)
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.AspNetUser.Email)
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.Route.Id)
+        </td>
+
+    </tr>
+}
+
+</table>

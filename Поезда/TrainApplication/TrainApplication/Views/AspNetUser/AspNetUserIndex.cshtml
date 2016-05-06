@@ -1,0 +1,49 @@
+﻿@model IEnumerable<TrainApplication.Database.AspNetUser>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(11){text-align: right;}
+</style>
+<h2></h2>
+<h4>Users</h4>
+<p>
+    @Html.ActionLink("Create New", "AspNetUserCreate", null, new { @class = "btn btn-info" })
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "AspNetUserEdit", new { id=item.Id}, new { @class = "btn btn-danger" })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.PhoneNumber)
+        </td>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+
+    </tr>
+}
+
+</table>

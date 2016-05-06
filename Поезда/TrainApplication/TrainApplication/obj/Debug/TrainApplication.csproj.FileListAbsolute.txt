@@ -1,0 +1,246 @@
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\ApplicationInsights.config
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\csc.exe
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\vbc.exe
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\TrainApplication.dll.config
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\TrainApplication.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\TrainApplication.pdb
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Antlr3.Runtime.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\EntityFramework.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.Web.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Newtonsoft.Json.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Owin.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.Helpers.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.Mvc.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.Optimization.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.Razor.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.WebPages.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\WebGrease.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.Web.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.Helpers.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.Mvc.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.Optimization.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.Razor.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.WebPages.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Antlr3.Runtime.pdb
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Newtonsoft.Json.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\EntityFramework.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\obj\Debug\TrainApplication.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\obj\Debug\TrainApplication.pdb
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\TrainApplication\TrainApplication\obj\Debug\TrainApplication.csprojResolveAssemblyReference.cache
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\ApplicationInsights.config
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\csc.exe
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\vbc.exe
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\TrainApplication.dll.config
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\TrainApplication.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\TrainApplication.pdb
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Antlr3.Runtime.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\EntityFramework.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.Web.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Newtonsoft.Json.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Owin.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.Helpers.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.Mvc.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.Optimization.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.Razor.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\WebGrease.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.Web.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.Helpers.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.Mvc.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.Optimization.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.Razor.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Antlr3.Runtime.pdb
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Newtonsoft.Json.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\EntityFramework.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\obj\Debug\TrainApplication.csprojResolveAssemblyReference.cache
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\obj\Debug\TrainApplication.dll
+C:\Users\dimon\Documents\Visual Studio 2015\Projects\Поезда\TrainApplication\TrainApplication\obj\Debug\TrainApplication.pdb
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\ApplicationInsights.config
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\csc.exe
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\vbc.exe
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\TrainApplication.dll.config
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\TrainApplication.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\TrainApplication.pdb
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Antlr3.Runtime.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\EntityFramework.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Newtonsoft.Json.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Owin.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.Helpers.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.Mvc.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.Optimization.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.Razor.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\WebGrease.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.Helpers.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.Mvc.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.Optimization.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.Razor.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Newtonsoft.Json.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\EntityFramework.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\obj\Debug\TrainApplication.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\obj\Debug\TrainApplication.pdb
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Артём\Downloads\Поезда\TrainApplication\TrainApplication\obj\Debug\TrainApplication.csprojResolveAssemblyReference.cache

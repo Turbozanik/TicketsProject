@@ -1,0 +1,55 @@
+﻿@model IEnumerable<TrainApplication.Database.Distination>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type='text/css'>
+    /*設定 數字靠右*/
+    td:nth-child(1){text-align: right;}
+    td:nth-child(2){text-align: right;}
+    td:nth-child(5){text-align: right;}
+</style>
+<h2></h2>
+<h4>Distination</h4>
+<p>
+    @Html.ActionLink("Create", "DistinationCreate", null, new { @class = "btn btn-info" })
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Departure)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Arrive)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Distance)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td style="text-align: left;">
+            @Html.ActionLink("Edit", "DistinationEdit", new { id=item.Id}, new { @class = "btn btn-danger" })
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Departure)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Arrive)
+        </td>
+        <td style="text-align: left;">
+            @Html.DisplayFor(modelItem => item.Distance)
+        </td>
+
+    </tr>
+}
+
+</table>
